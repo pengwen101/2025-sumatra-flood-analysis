@@ -1,3 +1,4 @@
 .env
 *.csv
 *.bin
+ig_scraper.py
